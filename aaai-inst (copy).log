@@ -1,0 +1,178 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.5.16)  17 NOV 2016 12:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"aaai-inst (copy).tex"
+(./aaai-inst (copy).tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./aaai.sty
+Conference Style for AAAI for LaTeX 2e -- version of 1 January 2015
+\titlebox=\skip43
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(./aaai-inst (copy).aux)
+\openout1 = `"aaai-inst (copy).aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 31.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 41.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 41.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 41.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+
+Underfull \hbox (badness 1147) in paragraph at lines 49--50
+\OT1/ptm/m/n/10 a type of population-based problem-solving ap-proaches
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 49--50
+\OT1/ptm/m/n/10 of prob-lems such as real-valued func-tion op-ti-miza-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 57--64
+\OT1/ptm/m/n/10 [] di-vided the whole pop-u-la-tion into mul-ti-ple sub-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 92.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [2]
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 263.
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--267
+ \OT1/ptm/b/n/10 Adding a Pub-li-ca-tion Note \OT1/ptm/m/n/10 To add a com-ment
+
+ []
+
+
+Underfull \hbox (badness 6893) in paragraph at lines 262--267
+\OT1/ptm/m/n/10 to the header of doc-u-ment, use []\OT1/pcr/m/n/10 \\OT1/ptm/m/
+n/10 pubnote, as in
+ []
+
+[3]
+Underfull \hbox (badness 1320) in paragraph at lines 379--381
+[]\OT1/ptm/m/n/10 If fonts aren't get-ting em-bed-ded, users should look
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 379--381
+\OT1/ptm/m/n/10 at the pdf-tex mail-ing list for hints on how to con-fig-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--403
+[]\OT1/ptm/m/n/10 Type 1 ver-sions of Com-puter Mod-ern are also
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 401--403
+\OT1/ptm/m/n/10 avail-able (for free) from the BaKoMa col-lec-tion at
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 411.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 411.
+[4] [5] [6
+
+] (./aaai-inst (copy).aux) ) 
+Here is how much of TeX's memory you used:
+ 420 strings out of 493029
+ 5422 string characters out of 6136234
+ 66941 words of memory out of 5000000
+ 3994 multiletter control sequences out of 15000+600000
+ 21870 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,10n,19p,1112b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base
+/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/ut
+mri8a.pfb>
+Output written on "aaai-inst (copy).pdf" (6 pages, 102380 bytes).
+PDF statistics:
+ 52 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

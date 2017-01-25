@@ -1,0 +1,161 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Ali \bgroup et al\mbox.\egroup
+  }{2011}]{ali2011boosting}
+Ali, M.~Z.; Salhieh, A.; Snanieh, R. T.~A.; and Reynolds, R.~G.
+\newblock 2011.
+\newblock Boosting cultural algorithms with an incongruous layered social
+  fabric influence function.
+\newblock In {\em 2011 IEEE Congress of Evolutionary Computation (CEC)},
+  1225--1232.
+\newblock IEEE.
+
+\bibitem[\protect\citeauthoryear{Ali \bgroup et al\mbox.\egroup
+  }{2016}]{ali2016leveraged}
+Ali, M.~Z.; Suganthan, P.~N.; Reynolds, R.~G.; and Al-Badarneh, A.~F.
+\newblock 2016.
+\newblock Leveraged neighborhood restructuring in cultural algorithms for
+  solving real-world numerical optimization problems.
+\newblock {\em IEEE transactions on evolutionary computation} 20(2):218--231.
+
+\bibitem[\protect\citeauthoryear{Ali, Salhieh, and
+  Reynolds}{2012}]{ali2012socio}
+Ali, M.~Z.; Salhieh, A.~M.; and Reynolds, R.~G.
+\newblock 2012.
+\newblock Socio-cultural evolution via neighborhood-restructuring in intricate
+  multi-layered networks.
+\newblock In {\em 2012 IEEE Congress on Evolutionary Computation},  1--8.
+\newblock IEEE.
+
+\bibitem[\protect\citeauthoryear{Bratton and
+  Kennedy}{2007}]{bratton2007defining}
+Bratton, D., and Kennedy, J.
+\newblock 2007.
+\newblock Defining a standard for particle swarm optimization.
+\newblock In {\em 2007 IEEE swarm intelligence symposium},  120--127.
+\newblock IEEE.
+
+\bibitem[\protect\citeauthoryear{Che, Ali, and Reynolds}{2010}]{che2010robust}
+Che, X.; Ali, M.; and Reynolds, R.~G.
+\newblock 2010.
+\newblock Robust evolution optimization at the edge of chaos: Commercialization
+  of culture algorithms.
+\newblock In {\em IEEE Congress on Evolutionary Computation},  1--8.
+\newblock IEEE.
+
+\bibitem[\protect\citeauthoryear{Chen \bgroup et al\mbox.\egroup
+  }{2014}]{chen2014problem}
+Chen, Q.; Liu, B.; Zhang, Q.; Liang, J.; Suganthan, P.; and Qu, B.
+\newblock 2014.
+\newblock Problem definitions and evaluation criteria for cec 2015 special
+  session on bound constrained single-objective computationally expensive
+  numerical optimization.
+\newblock Technical report, Technical Report, Computational Intelligence
+  Laboratory, Zhengzhou University, Zhengzhou.
+
+\bibitem[\protect\citeauthoryear{Chen, Li, and Cao}{2006}]{chen2006tribe}
+Chen, K.; Li, T.; and Cao, T.
+\newblock 2006.
+\newblock Tribe-pso: A novel global optimization algorithm and its application
+  in molecular docking.
+\newblock {\em Chemometrics and intelligent laboratory systems} 82(1):248--259.
+
+\bibitem[\protect\citeauthoryear{De~Oca \bgroup et al\mbox.\egroup
+  }{2009}]{de2009heterogeneous}
+De~Oca, M. A.~M.; Pe{\~n}a, J.; Stutzle, T.; Pinciroli, C.; and Dorigo, M.
+\newblock 2009.
+\newblock Heterogeneous particle swarm optimizers.
+\newblock In {\em 2009 IEEE Congress on Evolutionary Computation},  698--705.
+\newblock IEEE.
+
+\bibitem[\protect\citeauthoryear{Kennedy \bgroup et al\mbox.\egroup
+  }{2001}]{kennedy2001swarm}
+Kennedy, J.; Kennedy, J.~F.; Eberhart, R.~C.; and Shi, Y.
+\newblock 2001.
+\newblock {\em Swarm intelligence}.
+\newblock Morgan Kaufmann.
+
+\bibitem[\protect\citeauthoryear{Kennedy}{2011}]{kennedy2011particle}
+Kennedy, J.
+\newblock 2011.
+\newblock Particle swarm optimization.
+\newblock In {\em Encyclopedia of machine learning}. Springer.
+\newblock  760--766.
+
+\bibitem[\protect\citeauthoryear{King \bgroup et al\mbox.\egroup
+  }{2008}]{king2008embedding}
+King, I.; Li, Y.; Duan, H.; Reynolds, R.; and Ali, M.
+\newblock 2008.
+\newblock Embedding a social fabric component into cultural algorithms toolkit
+  for an enhanced knowledge-driven engineering optimization.
+\newblock {\em International Journal of Intelligent Computing and Cybernetics}
+  1(4):563--597.
+
+\bibitem[\protect\citeauthoryear{Kobti and
+  others}{2013}]{kobti2013heterogeneous}
+Kobti, Z., et~al.
+\newblock 2013.
+\newblock Heterogeneous multi-population cultural algorithm.
+\newblock In {\em 2013 IEEE Congress on Evolutionary Computation},  292--299.
+\newblock IEEE.
+
+\bibitem[\protect\citeauthoryear{Mendes}{2004}]{mendes2004population}
+Mendes, R.
+\newblock 2004.
+\newblock {\em Population topologies and their influence in particle swarm
+  performance}.
+\newblock Ph.D. Dissertation, Citeseer.
+
+\bibitem[\protect\citeauthoryear{Proakis}{1985}]{proakis1985probability}
+Proakis, J.
+\newblock 1985.
+\newblock Probability, random variables and stochastic processes.
+\newblock {\em IEEE Transactions on Acoustics, Speech, and Signal Processing}
+  33(6):1637--1637.
+
+\bibitem[\protect\citeauthoryear{Raeesi~N. and Kobti}{2014}]{RaeesiN.2014}
+Raeesi~N., M.~R., and Kobti, Z.
+\newblock 2014.
+\newblock {\em Heterogeneous Multi-Population Cultural Algorithm with a Dynamic
+  Dimension Decomposition Strategy}.
+\newblock Cham: Springer International Publishing.
+\newblock  345--350.
+
+\bibitem[\protect\citeauthoryear{Reynolds and
+  Ali}{2008a}]{reynolds2008computing}
+Reynolds, R.~G., and Ali, M.
+\newblock 2008a.
+\newblock Computing with the social fabric: The evolution of social
+  intelligence within a cultural framework.
+\newblock {\em IEEE computational intelligence magazine} 3(1):18--30.
+
+\bibitem[\protect\citeauthoryear{Reynolds and Ali}{2008b}]{reynolds2008social}
+Reynolds, R.~G., and Ali, M.~Z.
+\newblock 2008b.
+\newblock The social fabric approach as an approach to knowledge integration in
+  cultural algorithms.
+\newblock In {\em 2008 IEEE Congress on Evolutionary Computation (IEEE World
+  Congress on Computational Intelligence)},  4200--4207.
+\newblock IEEE.
+
+\bibitem[\protect\citeauthoryear{Reynolds}{1994}]{reynolds1994introduction}
+Reynolds, R.~G.
+\newblock 1994.
+\newblock An introduction to cultural algorithms.
+\newblock In {\em Proceedings of the third annual conference on evolutionary
+  programming}, volume 131139.
+\newblock Singapore.
+
+\bibitem[\protect\citeauthoryear{Sterling}{2004}]{sterling2004aggregation}
+Sterling, S.~E.
+\newblock 2004.
+\newblock Aggregation techniques to characterize social networks.
+\newblock Technical report, DTIC Document.
+
+\bibitem[\protect\citeauthoryear{Wolpert and Macready}{1997}]{wolpert1997no}
+Wolpert, D.~H., and Macready, W.~G.
+\newblock 1997.
+\newblock No free lunch theorems for optimization.
+\newblock {\em IEEE transactions on evolutionary computation} 1(1):67--82.
+
+\end{thebibliography}
